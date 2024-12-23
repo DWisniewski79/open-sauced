@@ -46,7 +46,7 @@ function CreateApp() {
         </p>
         <p>A public repository named "open-sauced-goals" will be created on your GitHub account to store data about your goals.</p>
         <small>
-          <em>You own all your data saved while saucin. Howdy, code change to make pipeline run v2!</em>
+          <em>You own all your data saved while saucin. Howdy, code change to make pipeline run v3!!</em>
         </small>
       </CreateGoalsContainer>
       <Illustration className="productive-developer" alt="productive developer image" src={devProductive} />
