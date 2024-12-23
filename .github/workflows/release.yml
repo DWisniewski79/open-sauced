@@ -1,11 +1,11 @@
 name: Release
 
-on:
-  push:
-    branches:
-      - main
-      - alpha
-      - beta
+#on:
+#  push:
+#    branches:
+#      - main
+#      - alpha
+#      - beta
 
 jobs:
   test:
